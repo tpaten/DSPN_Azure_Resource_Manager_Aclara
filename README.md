@@ -1,0 +1,1 @@
+# DSPN_Azure_Resource_Manager_Aclara
